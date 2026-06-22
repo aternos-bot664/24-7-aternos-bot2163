@@ -1,6 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": fakelapisbot{
+  "bot-account": fakelapisbot {
     "username": "24/7 bot",
     "password": "",
     "type": "offline"
